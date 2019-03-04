@@ -1,0 +1,7 @@
+.button {
+    -fx-font-weight: bold;
+}
+
+.highlight{
+    -fx-background-color: Lime;
+}

@@ -1,0 +1,10 @@
+.idea
+!.idea/codeStyles/*
+
+.svn
+.gradle
+
+build/
+out/
+
+*.iml
